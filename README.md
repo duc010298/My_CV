@@ -1,2 +1,1 @@
-# My_CV
-This is my CV
+![preview](https://i.imgur.com/flLyRS7.jpg)
